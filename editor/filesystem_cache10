@@ -1,0 +1,15 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1794636201
+Break.png::CompressedTexture2D::1359657395000722302::1794622997::1794622997::1::::<><><>0<>0<>2b03aebe1c1d82f319c9627651b21bb4<>res://.godot/imported/Break.png-21a8d12577327265b928da668cf77a01.ctex::
+export_presets.cfg::TextFile::-1::1794626301::0::1::::<><><>0<>0<><>::
+Hit (28x24).png::CompressedTexture2D::1728823000095171976::1794622997::1794622997::1::::<><><>0<>0<>21e3f0053f11dcbf7c4ec06e6db7f5d3<>res://.godot/imported/Hit (28x24).png-6457a58c09d0c7766c80959acd67cc74.ctex::
+icon.svg::CompressedTexture2D::7481531391878503643::1794622511::1794621384::1::::<><><>0<>0<>4d460222c8f35fdd191a34ae35706040<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Idle (32x32).png::CompressedTexture2D::1556307858000641212::1794636201::1794636201::1::::<><><>0<>0<>ddeef3dcb1e78e1c59d766208c092678<>res://.godot/imported/Idle (32x32).png-eab6f8bc6cc3e2ad30a389b322c823ee.ctex::
+Jump (32x32).png::CompressedTexture2D::8410847634256174535::1794634413::1794634413::1::::<><><>0<>0<>e328a9174f536e0bfa69cd6e9c9d7b71<>res://.godot/imported/Jump (32x32).png-91bf01789c567d31f5c28cd22911709b.ctex::
+Terrain (16x16).png::CompressedTexture2D::1447804360386802243::1794626879::1794626879::1::::<><><>0<>0<>1f8b39185066cd338cd3e7c25da74a34<>res://.godot/imported/Terrain (16x16).png-f072e8a5f99e915c05031c83401c87a9.ctex::
+The Three Auras-ANS.tscn::PackedScene::7532336266282879967::1794635677::0::1::::<><><>0<>0<><>::uid://cyukg4wag1etq::::res://Yellow.png<>uid://uvlej8we6hk2::::res://Terrain (16x16).png<>uid://dl45luotv4s20::::res://scenes/main_character.tscn<>uid://dhy4kcqeo6l0b::::res://scenes/main_character.gd
+Yellow.png::CompressedTexture2D::6499280611643165398::1794622334::1794622334::1::::<><><>0<>0<>da8541e66e05499652ae980f82211866<>res://.godot/imported/Yellow.png-8c5e275313f765d02799362409b1b5fe.ctex::
+::res://scenes/::1794636108
+main_character.tscn::PackedScene::7993048512468103055::1794636108::0::1::::<><><>0<>0<><>::
+main_character.gd::GDScript::7701907803337494231::1794634974::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://The Three Auras~/::1794626454
